@@ -1,0 +1,2 @@
+# LangChainTrainingBook
+LangChain入門用のコード
